@@ -11,9 +11,9 @@ from dataclasses import dataclass
 
 @dataclass
 class Developer:
-    name = "Anasxon Ummataliy"
+    name = "Qodirqulov Abdurahmon"
     role = "Python Software Engineer"
-    education = "PDP University (Bachelor 2/4)"
+    education = "TDTU UNIVERSTY"
     languages = ["Python", "C++", "JavaScript"]
     current_focus = "Backend Development"
 
